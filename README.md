@@ -1,5 +1,8 @@
 # ITCS-3160 Spring 2020 Project Assignment:
 
+# Click to view in separate webpage:
+https://github.com/fsalad/ITCS-3160-ProjectRepo
+
 # Group Member Names:
 - Ahmed Ahmed
 - Milo Boger
