@@ -7,7 +7,7 @@
 
 # Outline
 - Introduction:
-  We will be making a test database of a campus controlled food delivery service which will be called _________. 
+  We will be making a test database of a campus controlled food delivery service which will be called _________. <elaborate on intro some more>
 
 - Use Case:
   {Use case diagram}
