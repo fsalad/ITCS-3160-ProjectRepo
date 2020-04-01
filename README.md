@@ -27,7 +27,7 @@ https://fsalad.github.io/ITCS-3160-ProjectRepo/
   * The app will collect information about nutrition and eating habits of campus members.
   
 - EERD:
-  {EER Diagram}
+  ![TestImage](https://cdn.travelpulse.com/images/99999999-9999-9999-9999-999999999999/d28552bc-fa5c-8490-d79c-015d45de422e/630x355.jpg)
   
 - MySQL Queries:
   (Three queries required)
