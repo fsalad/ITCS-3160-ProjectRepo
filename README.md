@@ -14,7 +14,7 @@ https://fsalad.github.io/ITCS-3160-ProjectRepo/
   We will be making a test database of a campus controlled food delivery service which will be called Yum-Now. This service will allow students and faculty to order food from off campus and have it delivered safely to them by university authorized employees. Students can go into our website and pick a restaurant and order food from it, then a Yum-Now employee will pick up their food when it is ready and deliver it to an approved on campus location that the student has designated. This food delivery service will make it easy and safe to have all your favorite foods brought straight to you on campus.
 
 - Use Case:
-  {Use case diagram}
+  https://media.discordapp.net/attachments/690053755189723219/696453681045962883/image0.jpg?width=508&height=677
   
 - Business Rules:
   * All delivery personnel are students that have been approved.
