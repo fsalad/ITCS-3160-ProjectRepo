@@ -15,6 +15,7 @@ https://fsalad.github.io/ITCS-3160-ProjectRepo/
 
 - Use Case:
 As a person, I want to order food, to have it delivered to my location
+![](images/User%20Case.png)
   
 - Business Rules:
   * All delivery personnel are students that have been approved.
