@@ -30,6 +30,9 @@ As a person, I want to order food, to have it delivered to my location
 - EERD:
   ![TestImage](images/EERD.png)
   
+- Data Dictionary:
+  ![TestImage](images/dataDictionary.png)
+  
 - MySQL Queries:
   (Three queries required)
   
