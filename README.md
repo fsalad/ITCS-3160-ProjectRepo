@@ -28,7 +28,7 @@ As a person, I want to order food, to have it delivered to my location
   * The app will collect information about nutrition and eating habits of campus members.
   
 - EERD:
-  ![TestImage](images/EERD.png)
+  ![TestImage](images/EERDv2.png)
   
 - Data Dictionary:
   ![TestImage](images/dataDictionary.png)
