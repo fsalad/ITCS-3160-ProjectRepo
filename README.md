@@ -36,17 +36,3 @@ As a person, I want to order food, to have it delivered to my location
 - Data Dictionary:
   ![TestImage](images/dataDictionary.png)
   
-- MySQL Queries:
-  (Three queries required)
-  
-- Trigger:
-  (Special stored procedures that are executed when a specific action occurs within database)
-  
-- Stored Procedure:
-  (Stored procedures)
-  
-- Description of Future Work:
-  (How this database will be implemented in the future)
-  
-- MySQL dump:
-  (mysqldump)
